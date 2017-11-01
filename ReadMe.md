@@ -2,4 +2,4 @@
 
 Enjoy learning GIT.
 
-Changing default editor to notepad.
+Changing default editor to notepad
