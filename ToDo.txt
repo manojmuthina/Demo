@@ -2,4 +2,3 @@ Test the functionalities.
 Raise a pull request.
 Merge changes.
 Push to master.
-Added this line newly.
